@@ -1,0 +1,10 @@
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\bin\Debug\SnakeCSharp.exe.config
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\bin\Debug\SnakeCSharp.exe
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\bin\Debug\SnakeCSharp.pdb
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\obj\Debug\SnakeCSharp.csprojAssemblyReference.cache
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\obj\Debug\SnakeCSharp.Properties.Resources.resources
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\obj\Debug\SnakeCSharp.csproj.GenerateResource.cache
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\obj\Debug\SnakeCSharp.csproj.CoreCompileInputs.cache
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\obj\Debug\SnakeCSharp.exe
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\obj\Debug\SnakeCSharp.pdb
+D:\Programy\Projekty\SnakeC#\SnakeCSharp\obj\Debug\SnakeCSharp.Form.resources
